@@ -1,11 +1,11 @@
 # manim-zadaci
 
-zad1
-[![Watch the video]()](https://user-images.githubusercontent.com/87430150/202242603-51ad8c82-01fb-4c1a-b461-9697f7471df5.mp4))
+
+
+![zad1](https://user-images.githubusercontent.com/87430150/202242603-51ad8c82-01fb-4c1a-b461-9697f7471df5.mp4)
 
 
 
-zad2
-[![Watch the video](https://user-images.githubusercontent.com/87430150/202818627-a0a149b6-b196-4ce3-bd27-910f448adfdc.png)]([https://youtu.be/vt5fpE0bzSY](https://user-images.githubusercontent.com/87430150/202812666-40a9331a-e3b5-4268-9e25-6e9a25a8284d.mp4))
+![zad2](https://user-images.githubusercontent.com/87430150/202812666-40a9331a-e3b5-4268-9e25-6e9a25a8284d.mp4)
 
 
