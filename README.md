@@ -7,6 +7,9 @@ zad1-prikaz puta kocka
 
 
 zad2-hamiltonov put kocka
-<video src='https://user-images.githubusercontent.com/87430150/202812666-40a9331a-e3b5-4268-9e25-6e9a25a8284d.mp4' width=180/>
+<video src='https://user-images.githubusercontent.com/87430150/202852947-6ac1baa6-0b8f-4eb5-a456-b166fe6c2a0a.mp4' width=180/>
+
+
+
 
 
